@@ -1,0 +1,20 @@
+/* Dhruv Patel
+   Student Number: 8959436 */
+   body {
+    font: 16px/1.5 'Helvetica', sans-serif; 
+    background-color: hsla(195, 54%, 73%, 0.8); 
+    height: 100vh; 
+    width: 100vw; 
+}
+h2 {
+    color: rgb(255, 255, 255); 
+    font-size: 1.2rem; 
+}
+ul {
+    list-style-type: square;
+}
+
+li {
+    line-height: 1.2em; 
+    color: rgba(0, 128, 0, 0.8); 
+}
